@@ -1,0 +1,1 @@
+Lambda functions to download and transcribe podcasts from SoundCloud RSS feeds. Work in progress.
